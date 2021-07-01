@@ -1,0 +1,32 @@
+.heading
+{
+    font-size: 23px;
+    width: 30%;
+    margin:0px;
+    box-shadow: 2px 2px 2px pink;
+}
+
+.model
+{
+    font-size: 20px;
+    color:rgb(247, 8, 8);
+    background-color:skyblue;  
+}
+
+h6
+{
+    font-size:20px;
+    color:rgb(12, 8, 252);   
+}
+
+h6:hover
+{
+    color: Green;
+}
+
+.title
+{
+    background-color:springgreen;
+    color:black;
+    font-size:20px;
+}
